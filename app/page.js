@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main style={{ padding: 24 }}>
-      <h1>Team Peat</h1>
+      <h1>Team Peat and Team Chanon</h1>
       <p>Welcome to our team website.</p>
       <ul>
         <li><a href="/member-a">Member A</a></li>
